@@ -5,8 +5,8 @@ This repository includes all the practice problems and assignments which I've so
 
 Topics discussed are:
 1) [Recursion - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/1%20Recursion-1)
-2) Recursion - 2
-3) OOPS - 1
+2) [Recursion - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/2%20Recursion-2)
+3) [OOPS - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/3%20OOPS-1)
 4) OOPS - 2
 5) OOPS - 3
 6) Time Complexity Analysis
