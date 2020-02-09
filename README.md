@@ -4,7 +4,7 @@ Solved problems and assignments of DSA course taught by Coding Ninjas team
 This repository includes all the practice problems and assignments which I've solved during the Data Structures and Algorithms course in Python Programming taught by Coding Ninjas team.
 
 Topics discussed are:
-1) [Recursion - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/1%20Recursion-1)
+1) [Recursion - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/1%20Recursion-1){:target="_blank"}
 2) Recursion - 2
 3) OOPS - 1
 4) OOPS - 2
