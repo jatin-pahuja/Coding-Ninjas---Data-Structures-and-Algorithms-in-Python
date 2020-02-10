@@ -10,7 +10,7 @@ Topics discussed are:
 4) [OOPS - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/4%20OOPS-2)
 5) [OOPS - 3](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/5%20OOPS-3)
 6) [Time Complexity Analysis](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/6%20Time%20Complexity)
-7) Space Complexity Analysis
+7) [Space Complexity Analysis](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/7%20Space%20Complexity)
 8) Time Complexity Improvement
 9) Linked List - 1
 10) Linked List - 2
