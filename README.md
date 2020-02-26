@@ -13,7 +13,7 @@ Topics discussed are:
 7) [Space Complexity Analysis](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/7%20Space%20Complexity)
 8) [Time Complexity Improvement](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/8%20Time%20Complexity%20Improvement)
 9) [Linked List - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/9%20Linked%20List-1)
-10) Linked List - 2
+10) [Linked List - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/10%20Linked%20List-2)
 11) Stacks
 12) Queues
 13) Binary Trees - 1
