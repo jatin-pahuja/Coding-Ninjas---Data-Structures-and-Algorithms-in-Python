@@ -16,7 +16,7 @@ Topics discussed are:
 10) [Linked List - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/10%20Linked%20List-2)
 11) [Stacks](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/11%20Stacks)
 12) [Queues](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/12%20Queue)
-13) Binary Trees - 1
+13) [Binary Trees - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/13%20Trees)
 14) Binary Trees - 2
 15) BST - 1
 16) BST - 2
