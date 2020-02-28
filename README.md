@@ -20,7 +20,7 @@ Topics discussed are:
 14) [Binary Trees - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/14%20Binary%20Trees%20-%202)
 15) [BST - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/15%20BST-1)
 16) [BST - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/16%20BST-2)
-17) Generic Trees
+17) [Generic Trees](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/17%20Generic%20Trees)
 18) Dictionaries/Maps
 19) Graphs - 1
 20) Graphs - 2
