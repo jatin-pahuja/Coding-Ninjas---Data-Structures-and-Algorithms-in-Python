@@ -23,7 +23,7 @@ Topics discussed are:
 17) [Generic Trees](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/17%20Generic%20Trees)
 18) [Dictionaries/Maps](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/18%20Dictionaries)
 19) [Graphs - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/19%20Graphs%20-%201)
-20) Graphs - 2
+20) [Graphs - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/20%20Graphs%20-%202)
 21) Priority Queues - 1
 22) Huffman Coding
 23) Priority Queues - 2
