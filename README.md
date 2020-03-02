@@ -31,7 +31,7 @@ Topics discussed are:
 25) Recursion - 3
 26) Dynamic Programming - 2 
 27) Backtracking
-28) Advanced Data Structures and Algorithms
+28) [Advanced Data Structures and Algorithms](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/28%20Advanced%20DS%20Algo%20Topics)
 
 
 
