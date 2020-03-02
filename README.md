@@ -27,7 +27,7 @@ Topics discussed are:
 21) Priority Queues - 1
 22) Huffman Coding
 23) Priority Queues - 2
-24) Dynamic Programming - 1
+24) [Dynamic Programming - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/24%20DP-1)
 25) Recursion - 3
 26) Dynamic Programming - 2 
 27) Backtracking
