@@ -47,5 +47,5 @@ After this course completion, I recommend to have a look on these MIT lectures t
 
 
 Register the course with the following referral link to get a discount of ₹1,000/-   
-Referral Link: https://codingninjas.in/app/invite/THMPN  
+Referral Link: https://classroom.codingninjas.com/app/invite/VPDRW
 **Note: Don't forget to sign up with a new ID to avail discount**
